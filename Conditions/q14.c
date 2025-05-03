@@ -1,0 +1,1 @@
+//q12+q13=q14 they are same problem
