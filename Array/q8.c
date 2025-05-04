@@ -18,8 +18,8 @@ int main(){
             minIndex=i;
         }
     }
-    printf("Max: %d,Index:%d\n",max,maxIndex);
-    printf("Min:%d, Index:%d",min, minIndex);
+    printf("Max: %d, Index: %d\n",max,maxIndex);
+    printf("Min: %d, Index: %d",min, minIndex);
 
     return 0;
 }
